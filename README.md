@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** with a passion fo
 ---
 
 ## 🚀 What I'm Working On:
-- Learning **Microsoft Excel** for data cleaning and analysis.
+- Learning **Microsoft Excel** and **Microsoft Power BI** for data cleaning and analysis.
 - Enhancing my skills in **Python** and **SQL**.
 - Building small projects to showcase my journey.
 
